@@ -1,4 +1,3 @@
-import com.sun.source.tree.Tree;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -10,7 +9,7 @@ import org.testng.annotations.Test;
 import java.util.Iterator;
 import java.util.Set;
 
-public class Chapter4_WindowsManagement {
+public class Chapter4WindowsManagement {
 
     WebDriver driver;
 
